@@ -21,8 +21,8 @@
 
 ![Screenshot 2024-08-13 214316](https://github.com/user-attachments/assets/53f8b047-999c-401b-9d36-d3f4303df44d)
 <h2> How it works ⬇️</h2>
-https://github.com/user-attachments/assets/601a9884-c21f-442d-b859-482928aa0079
-
+<video src ="https://github.com/user-attachments/assets/601a9884-c21f-442d-b859-482928aa0079
+" ></video>
 
 <h1> </h1>
   
